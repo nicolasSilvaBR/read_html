@@ -1,0 +1,7 @@
+streamlit>=1.38.0
+pandas>=2.1.0
+numpy>=1.25.0
+sqlalchemy>=2.0.0
+pyodbc>=4.0.0
+streamlit-option-menu>=0.3.13
+beautifulsoup4==4.12.2
